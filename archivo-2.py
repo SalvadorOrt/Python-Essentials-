@@ -1,0 +1,11 @@
+#Realizado por: Salvador Ortega
+d1 = input('Primera Interacción, ingrese un valor cualquiera: ')
+print(type(d1))
+d2 = input('Segunda Interacción, ingrese un valor cualquiera: ')
+print(type(d2))
+d3 = input('Tercera Interacción, ingrese un valor cualquiera: ')
+print(type(d3))
+d4 = input('Cuarta Interacción, ingrese un valor cualquiera: ')
+print(type(d4))
+d5 = input('Quinta Interacción, ingrese un valor cualquiera: ')
+print(type(d5))
